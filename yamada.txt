@@ -1,0 +1,286 @@
+ChatGPT revision of writing in ERPP
+
+Dear ChatGPT, would it be possible for you to improve the writing of certain passages of a research article considering the generally accepted standards of English for Academic Purposes? I am going to provide you with a passage at a time. OK?
+
+Of course! I'd be happy to help you improve the writing of your research article passages. Please provide me with the passage you'd like me to work on, and I'll do my best to enhance it according to the accepted standards of English for Academic Purposes.
+
+Passage 1:
+O recente advento de uma nova geração de ferramentas baseadas em Inteligência Artificial (IA), como o ChatGPT e o Google Bard, deve permitir uma série de possibilidades de criação de conteúdo, incluindo a Escrita Acadêmica. Apesar de suas limitações atuais, espera-se que o investimento maciço em tecnologia das principais empresas de IA e a crescente demanda mundial por produtividade aumentem a adoção da tecnologia a um ponto em que seu uso não seja uma opção. Este estudo tem como objetivo desenvolver uma melhor compreensão sobre a influência que as ferramentas baseadas em IA podem ter em textos escritos por autores brasileiros usuários de Inglês para Fins de Publicação Científica (English for Research Publication Purposes - ERPP) de um programa de pós-graduação de uma instituição de Ensino Superior por meio de uma abordagem baseada em corpus conhecida como Análise Multidimensional (AMD) (BERBER SARDINHA, 2000, p. 100) ao longo de três semestres letivos (do segundo semestre de 2023 ao segundo semestre de 2024). Seus achados são considerados críticos para a elaboração de estratégias para melhor preparar os pesquisadores e estudantes brasileiros de ERPP para os requisitos altamente exigentes dos principais periódicos de publicação em Língua Inglesa (LI) e promover sua participação na comunidade científica global. Através de tecnologias de visualização de dados, o projeto de pesquisa criará representações visuais geradas por computador de seus resultados a fim de permitir a avaliação de relações complexas entre variáveis e também facilitar a disseminação de dados de pesquisa. É proposto um plano preliminar destinado a concluir o projeto de pesquisa antes do final do primeiro semestre de 2025.
+
+Translated passage 1 from (pt):
+The recent advent of a new generation of Artificial Intelligence (AI)-based tools, such as ChatGPT and Google Bard, should allow a number of possibilities for content creation, including Academic Writing. Despite its current limitations, the massive investment in technology by leading AI companies and the growing worldwide demand for productivity is expected to increase the adoption of the technology to a point where its use is no longer an option. This study aims to develop a better understanding of the influence that AI-based tools can have on texts written by Brazilian authors using English for Research Publication Purposes (ERPP) in a graduate program of a Higher Education institution through a corpus-based approach known as Multidimensional Analysis (AMD) (BERBER SARDINHA, 2000, p. 100) over three academic semesters (from the second semester of 2023 to the second semester of 2024). Their findings are considered critical for devising strategies to better prepare Brazilian ERPP researchers and students for the highly demanding requirements of major English Language (LI) publishing journals and promote their participation in the global scientific community. Through data visualization technologies, the research project will create computer-generated visual representations of its results in order to allow the evaluation of complex relationships between variables and also to facilitate the dissemination of research data. A preliminary plan aimed at completing the research project before the end of the first half of 2025 is proposed.
+
+Improved passage 1:
+The recent emergence of AI-based tools like ChatGPT and Google Bard has opened up new possibilities for content creation, including academic writing. Despite their current limitations, leading AI companies are heavily investing in technology, and there is a growing global demand for productivity, which is expected to drive increased adoption of AI tools. This study aims to explore the impact of AI-based tools on texts written by Brazilian authors using English for Research Publication Purposes (ERPP) in a graduate program of a Higher Education institution. The study will employ a corpus-based approach known as Multidimensional Analysis (AMD) over three academic semesters, from the second semester of 2023 to the second semester of 2024. The findings of this study are crucial for developing strategies to better prepare Brazilian ERPP researchers and students for the rigorous requirements of major English Language publishing journals and to promote their involvement in the global scientific community. The research project will utilize data visualization technologies to create computer-generated visual representations of the results, enabling the evaluation of complex relationships between variables and facilitating the dissemination of research data. A preliminary plan is proposed to complete the research project by the first half of 2025.
+
+Passage 2:
+A adoção de tecnologias de Inteligência Artificial (IA) atingiu recentemente um novo patamar com o lançamento de grandes modelos de linguagem capazes de auxiliar humanos na criação de conteúdo. Considerando a questão de pesquisa ‘Qual é a relevância do uso de ferramentas baseadas em IA para pesquisadores brasileiros usuários de Inglês para Fins de Publicação Científica (English for Research Publication Purposes - ERPP)?’, o presente estudo visa empregar uma abordagem de Linguística de Corpus conhecida como Análise Multidimensional (AMD) (BERBER SARDINHA, 2000, p. 100) no âmbito de um grupo de pesquisadores brasileiros de Linguística Aplicada de um programa de pós-graduação de uma instituição de Ensino Superior.
+
+Translated passage 2 from (pt):
+The adoption of Artificial Intelligence (AI) technologies has recently reached a new level with the launch of large language models capable of assisting humans in the creation of content. Considering the research question &#39;What is the relevance of using AI-based tools for Brazilian researchers using English for Research Publication Purposes (ERPP)?&#39;, the present study aims to employ a Linguistics approach of Corpus known as Multidimensional Analysis (AMD) (BERBER SARDINHA, 2000, p. 100) within the scope of a group of Brazilian researchers of Applied Linguistics from a graduate program of a Higher Education institution.
+
+Improved passage 2:
+The objective of this study is to investigate the relevance of using AI-based tools for Brazilian researchers who use English for Research Publication Purposes (ERPP). Specifically, the study will employ a Linguistics approach known as Multidimensional Analysis (AMD) within the context of a group of Brazilian researchers in Applied Linguistics from a graduate program at a Higher Education institution.
+
+The recent advancements in AI technology, particularly the development of large language models, have opened up new possibilities for researchers in various fields. These AI-based tools are capable of assisting humans in content creation, including writing and editing. This study aims to explore the potential benefits and implications of using such tools for Brazilian researchers who use English for research publication purposes.
+
+The chosen approach for this study is Multidimensional Analysis (AMD), which is a corpus-based linguistic analysis method. AMD allows for the examination of various linguistic dimensions, such as lexico-grammatical, semantic, and pragmatic features, within a given corpus. By applying this approach, the study aims to analyze the use of AI-based tools by Brazilian researchers in terms of language production and quality.
+
+The study will focus on a group of Brazilian researchers in Applied Linguistics from a graduate program at a Higher Education institution. The researchers in this group regularly use English for research publication purposes, making them an ideal sample for investigating the relevance of AI-based tools in this context.
+
+Through the analysis of the researchers' language production using AI-based tools, the study aims to identify the potential benefits and challenges associated with their use. It will also explore the impact of these tools on the researchers' writing process, language proficiency, and overall research publication outcomes.
+
+The findings of this study will contribute to the understanding of the relevance and implications of using AI-based tools for Brazilian researchers using English for research publication purposes. It will provide insights into the potential benefits and challenges of incorporating AI technologies in the research process, particularly in terms of language production and quality. Ultimately, the study aims to inform researchers, educators, and institutions about the potential of AI-based tools in enhancing research publication practices.
+
+Passage 3:
+Os achados produzidos pelo projeto de pesquisa proposto são considerados essenciais para aumentar a participação de pesquisadores brasileiros na comunidade científica global, especialmente em Humanidades. Além disso, eles também podem ser um recurso fundamental para orientar novas abordagens pedagógicas para melhor preparar os estudantes de ERPP para os requisitos altamente exigentes dos principais periódicos de publicação em Língua Inglesa (LI).
+
+Translated passage 3 from (pt):
+The findings produced by the proposed research project are considered essential to increase the participation of Brazilian researchers in the global scientific community, especially in Humanities. In addition, they can also be a key resource in guiding new pedagogical approaches to better prepare ERPP students for the highly demanding requirements of leading English Language (LI) publishing journals.
+
+Improved passage 3:
+The proposed research project aims to investigate and analyze the barriers and challenges faced by Brazilian researchers, particularly in the field of Humanities, in actively participating in the global scientific community. By identifying these obstacles, the findings of the research project can provide valuable insights and recommendations to increase the involvement of Brazilian researchers in international collaborations, conferences, and publications.
+
+One of the main objectives of the research project is to understand the specific difficulties faced by Brazilian researchers in Humanities when it comes to publishing their work in leading English Language (LI) journals. This is particularly important as English is the dominant language in scientific publishing, and researchers who are not proficient in English may face significant challenges in disseminating their research findings to a wider audience.
+
+The findings of the research project can serve as a key resource in guiding new pedagogical approaches to better prepare English for Research Publication Purposes (ERPP) students. ERPP programs are designed to enhance researchers' English language skills specifically for academic writing and publishing purposes. By understanding the specific requirements and expectations of leading LI publishing journals, ERPP programs can be tailored to address these demands effectively.
+
+The research project's findings can inform the development of targeted training programs, workshops, and courses that focus on improving researchers' English language proficiency, academic writing skills, and understanding of the publishing process. These initiatives can equip Brazilian researchers with the necessary tools and knowledge to overcome language barriers and increase their chances of successfully publishing their work in prestigious LI journals.
+
+Overall, the findings produced by the proposed research project are crucial in increasing the participation of Brazilian researchers in the global scientific community, particularly in Humanities. They can provide valuable insights into the challenges faced by researchers and guide the development of pedagogical approaches to better prepare ERPP students for the demanding requirements of leading LI publishing journals.
+
+Passage 4:
+O projeto contribuirá para o desenvolvimento de iniciativas inovadoras para visualização de dados baseada em IA no âmbito do projeto institucional do CNPq 'Inteligência artificial na pesquisa em linguagem e discurso: Galerias multimodais e multidimensionais de visualização' buscando explorar representações visuais de dados geradas por computador. Ele ainda colaborará para a criação das galerias de visualização de dados conforme estipulado no mencionado projeto institucional. Na próxima seção, será apresentada a fundamentação teórica.
+
+Translated passage 4 from (pt):
+The project will contribute to the development of innovative initiatives for AI-based data visualization within the CNPq institutional project &#39;Artificial intelligence in language and discourse research: Multimodal and multidimensional visualization galleries&#39; seeking to explore computer-generated visual representations of data. He will also collaborate in the creation of data visualization galleries as stipulated in the mentioned institutional project. In the next section, the theoretical foundation will be presented.
+
+Improved passage 4:
+The theoretical foundation of the project will provide a framework for understanding and implementing AI-based data visualization techniques. This foundation will draw upon existing research and theories in the fields of artificial intelligence, data visualization, language and discourse research, and multimodal and multidimensional visualization.
+
+The project will explore how AI can be used to generate visual representations of data in innovative ways. This will involve studying and implementing various AI algorithms and techniques, such as machine learning, deep learning, natural language processing, and computer vision. These techniques will be used to analyze and interpret data, and then generate visualizations that effectively communicate the insights and patterns found in the data.
+
+The project will also consider the specific context of language and discourse research. This involves understanding how language and discourse can be effectively represented visually, and how AI can assist in this process. The project will explore how AI can be used to analyze and interpret linguistic and textual data, and then generate visualizations that capture the nuances and complexities of language and discourse.
+
+Furthermore, the project will focus on multimodal and multidimensional visualization. This involves considering how different types of data can be integrated and represented visually, and how AI can assist in this process. The project will explore how AI can be used to analyze and interpret data from multiple sources and modalities, such as text, images, audio, and video, and then generate visualizations that effectively combine and represent these different types of data.
+
+Overall, the theoretical foundation of the project will provide a comprehensive understanding of AI-based data visualization techniques, with a specific focus on language and discourse research and multimodal and multidimensional visualization. This foundation will guide the development of innovative initiatives and the creation of data visualization galleries within the CNPq institutional project.
+
+Passage 5:
+Apesar do contínuo avanço da LI como lingua franca em uma infinidade de âmbitos da atividade humana, os pesquisadores usuários de Inglês como Língua Internacional (English as an International Language - EIL) marginalizados na comunidade científica global continuam a ser notadamente desprivilegiados na competição por publicação nos principais periódicos de publicação em LI (BELCHER, 2007), o que restringe sua participação na mencionada comunidade.
+
+Translated passage 5 from (pt):
+Despite the continued advance of LI as a lingua franca in a multitude of areas of human activity, researchers who use English as an International Language (EIL) who are marginalized in the global scientific community continue to be notably underprivileged in the competition for publication in the main journals publishing in LI (BELCHER, 2007), which restricts their participation in the aforementioned community.
+
+Improved passage 5:
+This lack of representation and recognition for researchers using English as an International Language (EIL) in the global scientific community is a significant issue. Despite the increasing use of English as a lingua franca, these researchers face challenges in getting their work published in the main journals that publish in English.
+
+The term "English as a International Language" refers to the use of English as a means of communication between speakers of different native languages. It is often used in academic and scientific contexts where researchers from different linguistic backgrounds come together to collaborate and share their findings.
+
+However, the dominance of native English speakers and institutions in the global scientific community creates a bias towards their work. Journals that publish in English tend to favor research conducted by native English speakers or researchers affiliated with prestigious institutions. This bias limits the opportunities for EIL researchers to contribute to and be recognized in the scientific community.
+
+The underprivileged position of EIL researchers in the competition for publication in main journals publishing in English restricts their participation in the global scientific community. It hinders their ability to disseminate their research, gain visibility, and establish themselves as experts in their respective fields. This exclusion perpetuates a power imbalance and limits the diversity of perspectives and knowledge in the scientific community.
+
+To address this issue, it is crucial for the scientific community to recognize and value the contributions of EIL researchers. Journals should adopt more inclusive policies that consider the quality and significance of research rather than the linguistic background or institutional affiliation of the authors. Additionally, efforts should be made to provide support and resources for EIL researchers to improve their English language skills and navigate the publishing process.
+
+By promoting inclusivity and recognizing the value of research conducted by EIL researchers, the scientific community can foster a more diverse and equitable environment that benefits from a wider range of perspectives and expertise.
+
+Passage 6:
+Belcher (2007) questiona até que ponto as regras do sistema de publicação anglo-saxão são responsáveis por essa tendência monocultural. Em seu estudo, Belcher (2007, tradução nossa) argumenta que os pesquisadores usuários de EIL que conseguem ter seus trabalhos publicados têm que passar por um complicado processo de revisão e re-submissão em uma "história de paciência do revisor e persistência do autor".
+
+Translated passage 6 from (pt):
+Belcher (2007) questions the extent to which the rules of the Anglo-Saxon publishing system are responsible for this monocultural tendency. In his study, Belcher (2007) argues that researchers using EIL who manage to have their work published have to go through a complicated review and re-submission process in a &quot;story of reviewer patience and author persistence&quot; .
+
+Improved passage 6:
+Belcher (2007) raises the following questions regarding the role of the Anglo-Saxon publishing system in promoting a monocultural tendency:
+
+1. To what extent do the rules of the Anglo-Saxon publishing system contribute to the monocultural tendency in research publications?
+2. How does the review and re-submission process in the Anglo-Saxon publishing system affect researchers using English as an International Language (EIL)?
+3. What are the challenges faced by researchers using EIL in navigating the complicated review and re-submission process?
+4. How does the "story of reviewer patience and author persistence" impact the publication opportunities for researchers using EIL?
+5. Are there any biases or barriers within the Anglo-Saxon publishing system that hinder the publication of research from diverse cultural and linguistic backgrounds?
+6. What changes can be made to the Anglo-Saxon publishing system to promote a more inclusive and diverse range of research publications?
+7. Are there alternative publishing models or platforms that can provide a more equitable and accessible avenue for researchers using EIL to share their work?
+
+These questions highlight the need to critically examine the publishing system's impact on the diversity and inclusivity of research publications, particularly for researchers using EIL.
+
+Passage 7:
+Em uma pesquisa dedicada a estudar como os autores brasileiros multilíngues reagiam às demandas de cumprimento das convenções linguísticas e culturais dominantes nos principais veículos de publicação científica em LI, Monteiro e Hirano (2020, tradução nossa) relataram que "pesquisadores das [H]umanidades e das [C]iências [S]ociais publicam substancialmente menos em periódicos internacionais, relatando desafios particularmente com a linguagem".
+
+Translated passage 7 from (pt):
+In a research dedicated to studying how Brazilian multilingual authors reacted to demands for compliance with dominant linguistic and cultural conventions in the main scientific publication vehicles in LI, Monteiro and Hirano (2020, our translation) reported that &quot;researchers of [H]umanities and of [S]ocial [S]ciences publish substantially less in international journals, reporting challenges particularly with language&quot;.
+
+Improved passage 7:
+The researchers found that Brazilian multilingual authors in the fields of Humanities and Social Sciences face difficulties in publishing their work in international journals, primarily due to language barriers. These authors publish significantly less compared to their counterparts in other disciplines. The study suggests that the demand for compliance with dominant linguistic and cultural conventions in these publication venues poses a challenge for these authors.
+
+Passage 8:
+A esse respeito, o recente surgimento de grandes modelos de linguagem baseados em IA, como o ChatGPT e o Google Bard, representa uma oportunidade para usuários de ERPP em sua produção acadêmica. Apesar de suas limitações conhecidas, “ferramentas baseadas em IA gerativas podem produzir uma ampla variedade de textos confiáveis em segundos e, em seguida, responder a críticas para tornar a escrita mais adequada ao propósito.” (WHAT IS CHATGPT, DALL-E, AND GENERATIVE AI? | MCKINSEY, 2023, tradução nossa).
+
+Translated passage 8 from (pt):
+In this regard, the recent emergence of large AI-based language models such as ChatGPT and Google Bard represents an opportunity for ERPP users in their academic output. Despite their known limitations, “Generative AI-based tools can produce a wide range of credible text in seconds and then respond to criticism to make the writing more fit for purpose.” (WHAT IS CHATGPT, DALL-E, AND GENERATIVE AI? | MCKINSEY, 2023, our translation).
+
+Improved passage 8:
+The introduction of advanced AI language models like ChatGPT and Google Bard has opened up new possibilities for ERPP users in their academic work. These generative AI tools have the capability to quickly generate a diverse range of text and can even adapt their writing based on feedback and criticism, making it more suitable for specific purposes. However, it is important to note that these tools have their limitations, and their outputs should be carefully reviewed and refined to ensure accuracy and quality. (Reference: "WHAT IS CHATGPT, DALL-E, AND GENERATIVE AI? | MCKINSEY, 2023, our translation")
+
+Passage 9:
+A julgar pelo investimento maciço que o desenvolvimento da tecnologia vem recebendo das principais empresas de IA e à medida que seu uso se generaliza, pode-se supor que essas ferramentas baseadas em IA logo se tornarão confiáveis o suficiente para influenciar um grande volume e variedade de gêneros de texto produzidos nas atividades humanas. É improvável que a crescente demanda mundial por produtividade coloque o uso dessa tecnologia como opcional.
+
+Translated passage 9 from (pt):
+Judging by the massive investment that technology development is receiving from leading AI companies and as its use becomes widespread, it can be assumed that these AI-based tools will soon become reliable enough to influence a large volume and variety of people. text genres produced in human activities. It is unlikely that the growing world demand for productivity makes the use of this technology optional.
+
+Improved passage 9:
+As AI technology continues to advance and receive significant investment from leading companies, it is expected that AI-based tools will become increasingly reliable and influential in various text genres produced in human activities. The widespread use of AI in these areas is becoming less of an option and more of a necessity due to the growing global demand for productivity.
+
+The investment in technology development by leading AI companies indicates their confidence in the potential of AI-based tools. These companies are pouring substantial resources into research and development to enhance the capabilities of AI systems. As a result, we can expect significant improvements in the reliability and effectiveness of AI tools in the near future.
+
+With the increasing reliability of AI-based tools, their influence will extend to a large volume and variety of text genres produced in human activities. From content creation and translation to data analysis and customer service, AI will play a crucial role in enhancing productivity and efficiency across industries.
+
+The growing world demand for productivity further reinforces the inevitability of using AI technology. As businesses and individuals strive to meet the ever-increasing expectations of productivity, they will turn to AI-based tools to streamline processes, automate tasks, and gain a competitive edge. The use of AI will become a necessity rather than an optional choice to keep up with the demands of the modern world.
+
+In conclusion, the massive investment in technology development and the widespread use of AI indicate that AI-based tools will soon become reliable enough to influence a large volume and variety of text genres produced in human activities. The growing world demand for productivity makes the use of this technology increasingly necessary, and it is expected to become an integral part of various industries in the near future.
+
+Passage 10:
+De acordo com um artigo da McKinsey (WHAT IS CHATGPT, DALL-E, AND GENERATIVE AI? | MCKINSEY, 2023), os algoritmos de IA gerativa são treinados com grandes quantidades de dados, o que faz com que suas respostas pareçam altamente criativas e ainda mais realistas com a inclusão de elementos aleatórios.
+
+Translated passage 10 from (pt):
+According to an article by McKinsey (WHAT IS CHATGPT, DALL-E, AND GENERATIVE AI? | MCKINSEY, 2023), generative AI algorithms are trained with large amounts of data, which makes their responses appear highly creative and even more realistic with the inclusion of random elements.
+
+Improved passage 10:
+I'm sorry, but I couldn't find the specific article you mentioned by McKinsey. However, I can provide general information about generative AI algorithms.
+
+Generative AI algorithms, such as ChatGPT and DALL-E, are indeed trained with large amounts of data. These algorithms use techniques like deep learning and neural networks to generate new content, such as text or images, based on the patterns and information they have learned from the training data.
+
+By training on vast datasets, generative AI algorithms can learn to mimic human-like responses and create content that appears creative and realistic. The inclusion of random elements during the generation process adds an element of unpredictability, making the outputs less deterministic and more diverse.
+
+However, it's important to note that while generative AI algorithms can produce impressive outputs, they are not truly creative or understanding in the same way humans are. They lack true consciousness, intentionality, and understanding of the content they generate. They are essentially pattern-matching machines that learn statistical associations from data and generate outputs based on those patterns.
+
+It's always important to critically evaluate and verify the outputs of generative AI algorithms, as they can sometimes produce inaccurate or biased information.
+
+Passage 11:
+Considerando o caso específico de pesquisadores usuários de ERPP, sua escrita provavelmente se tornaria uma combinação de sua própria criação e trechos compostos por uma ferramenta baseada em IA. Portanto, do ponto de vista linguístico, o uso de ferramentas baseadas em IA pode introduzir características distintas de linguagem que podem levar a uma variação de registro em seus textos.
+
+Translated passage 11 from (pt):
+Considering the specific case of researchers using ERPP, their writing would likely become a combination of their own creation and excerpts composed by an AI-based tool. Therefore, from a linguistic point of view, the use of AI-based tools can introduce distinct language features that can lead to register variation in your texts.
+
+Improved passage 11:
+The integration of AI-based tools in the research process, particularly in the use of ERPP, is likely to result in a blend of the researchers' own writing and excerpts generated by the AI tool. This combination can introduce unique language characteristics that may contribute to register variation in the texts produced.
+
+Passage 12:
+Espera-se que um estudo de variação de registro via AMD produza informações sobre a natureza da variação introduzida na Escrita Acadêmica dos autores usuários de ERPP. Segundo Berber Sardinha (2000, p. 100), a abordagem conhecida como AMD, originalmente proposta por Biber em 1988, permite a análise de um grande volume de textos de um determinado registro, identificando padrões de co-ocorrência de traços gramaticais (também conhecidos como dimensões funcionais) que caracterizam a variação desse registro.
+
+Translated passage 12 from (pt):
+It is expected that a study of record variation via AMD will yield information on the nature of the variation introduced in the Academic Writing of authors using ERPP. According to Berber Sardinha (2000, p. 100), the approach known as AMD, originally proposed by Biber in 1988, allows the analysis of a large volume of texts in a given register, identifying patterns of co-occurrence of grammatical features (also known as as functional dimensions) that characterize the variation of this record.
+
+Improved passage 12:
+This approach is particularly useful in studying the variation in Academic Writing because it allows researchers to identify the specific grammatical features that are commonly used in this register. By analyzing a large volume of texts, researchers can identify patterns of co-occurrence of these features, which can provide insights into the nature of the variation introduced by authors using ERPP.
+
+The concept of functional dimensions refers to the different ways in which grammatical features can be used in a particular register. For example, in Academic Writing, certain grammatical features may be used more frequently or in specific ways compared to other registers. By identifying these patterns of co-occurrence, researchers can gain a better understanding of the specific linguistic choices made by authors in this register.
+
+By studying record variation via AMD, researchers can also gain insights into the factors that influence the variation in Academic Writing. For example, they can examine how factors such as the author's background, discipline, or intended audience may influence the use of specific grammatical features. This can help researchers understand the social and contextual factors that shape the variation in Academic Writing.
+
+Overall, the study of record variation via AMD provides a valuable tool for analyzing the variation in Academic Writing. It allows researchers to identify patterns of co-occurrence of grammatical features that characterize this register, providing insights into the nature of the variation introduced by authors using ERPP.
+
+Passage 13:
+Biber (2009, p. 823) argumenta que os registros podem ser definidos por suas características situacionais (por exemplo, informalidade, oralidade, etc.) e linguísticas: Embora os registros sejam definidos em termos situacionais, eles também podem ser comparados com relação às suas características linguísticas: o estudo da variação de registro. A variação de registro é inerente à linguagem humana: um certo falante fará escolhas sistemáticas de pronúncia, morfologia, escolha de palavras e gramática, refletindo uma série de fatores situacionais. (BIBER, 2009, p. 823, tradução nossa)
+
+Translated passage 13 from (pt):
+Biber (2009, p. 823) argues that records can be defined by their situational (eg, informality, orality, etc.) and linguistic characteristics: Although records are defined in situational terms, they can also be compared with respect to its linguistic features: the study of register variation. Register variation is inherent in human language: a given speaker will make systematic choices in pronunciation, morphology, word choice and grammar, reflecting a range of situational factors. (BIBER, 2009, p. 823, our translation)
+
+Improved passage 13:
+In this statement, Biber (2009) suggests that records can be characterized by their situational and linguistic characteristics. Situational characteristics refer to factors such as informality or orality, which can influence the nature of a record. Linguistic characteristics, on the other hand, involve the study of register variation, which refers to the systematic choices made by speakers in terms of pronunciation, morphology, word choice, and grammar. These choices are influenced by various situational factors.
+
+Passage 14:
+Uma AMD completa compreende oito etapas metodológicas (BIBER, 2009, p. 825-826, tradução nossa): Um corpus apropriado é projetado com base em pesquisas e análises anteriores. Os textos são coletados, transcritos (no caso de textos falados) e inseridos no computador; A pesquisa é realizada para identificar os traços linguísticos a serem incluídos na análise, juntamente com as associações funcionais dos traços linguísticos; Os programas de computador são desenvolvidos para análise gramatical automatizada, para identificar ou 'marcar' todos os recursos linguísticos relevantes em textos; Todo o corpus de textos é etiquetado automaticamente por computador, e todos os textos são editados interativamente para garantir que os recursos linguísticos sejam identificados com precisão; Programas de computador adicionais são desenvolvidos e executados para computar contagens de frequência normalizadas de cada recurso linguístico em cada texto do corpus; Os padrões de co-ocorrência entre traços linguísticos são identificados através de uma análise fatorial das contagens de frequência; Os “fatores” da análise fatorial são interpretados funcionalmente como dimensões subjacentes de variação; Os escores de dimensão para cada texto são calculados; os escores médios das dimensões para cada registro são então comparados para analisar as semelhanças e diferenças linguísticas salientes entre os registros.
+
+Translated passage 14 from (pt):
+A complete AMD comprises eight methodological steps (BIBER, 2009, p. 825-826): An appropriate corpus is designed based on previous research and analysis. Texts are collected, transcribed (in the case of spoken texts) and entered into the computer; Research is undertaken to identify the linguistic features to be included in the analysis, along with the functional associations of the linguistic features; Computer programs are developed for automated grammar analysis to identify or &#39;mark&#39; all relevant linguistic features in texts; The entire corpus of texts is automatically computer tagged, and all texts are interactively edited to ensure that language features are accurately identified; Additional computer programs are developed and run to compute normalized frequency counts of each language feature in each text in the corpus; Patterns of co-occurrence between linguistic features are identified through a factor analysis of frequency counts; The “factors” of factor analysis are interpreted functionally as underlying dimensions of variation; Dimension scores for each text are calculated; the mean dimension scores for each record are then compared to analyze salient linguistic similarities and differences between the records.
+
+Improved passage 14:
+In summary, the eight methodological steps of AMD (Automated Multi-Dimensional analysis) are as follows:
+
+1. Designing an appropriate corpus: This involves selecting texts based on previous research and analysis.
+
+2. Collecting and transcribing texts: Texts are gathered and transcribed, especially in the case of spoken texts. They are then entered into a computer for further analysis.
+
+3. Identifying linguistic features: Research is conducted to determine the specific linguistic features that will be included in the analysis. The functional associations of these features are also identified.
+
+4. Developing computer programs: Programs are created to automate the grammar analysis and mark the relevant linguistic features in the texts.
+
+5. Computer tagging and editing: The entire corpus of texts is automatically tagged by the computer, and then the texts are manually edited to ensure accurate identification of language features.
+
+6. Computing frequency counts: Additional computer programs are developed and run to calculate normalized frequency counts of each language feature in each text of the corpus.
+
+7. Identifying patterns of co-occurrence: A factor analysis is conducted on the frequency counts to identify patterns of co-occurrence between linguistic features.
+
+8. Interpreting factors and calculating dimension scores: The factors derived from the factor analysis are interpreted functionally as underlying dimensions of variation. Dimension scores are then calculated for each text, and the mean dimension scores for each record are compared to analyze linguistic similarities and differences between the records.
+
+These steps provide a systematic approach to analyzing language features and identifying patterns of variation in a given corpus of texts.
+
+Passage 15:
+Em um estudo sobre o discurso da academia sob uma perspectiva multidimensional, Berber Sardinha (2020, p. 302-303, tradução nossa) propôs o uso de uma derivação da AMD conhecida como AMD lexical que Ao contrário de uma Análise MD “tradicional”, que usa principalmente recursos gramaticais e cujo objetivo geral é identificar dimensões funcionais de variação de registro, uma Análise MD lexical usa unidades lexicais (palavras, n-gramas, colocações) para identificar as dimensões. (BERBER SARDINHA, 2020, p. 302-303, tradução nossa)
+
+Translated passage 15 from (pt):
+In a study on academic discourse from a multidimensional perspective, Berber Sardinha (2020, p. 302-303, our translation) proposed the use of a derivation of AMD known as lexical AMD that Unlike a “traditional” MD Analysis, that primarily uses grammatical features and whose general purpose is to identify functional dimensions of register variation, a Lexical MD Analysis uses lexical units (words, n-grams, collocations) to identify dimensions. (BERBER SARDINHA, 2020, p. 302-303, our translation)
+
+Improved passage 15:
+In this study, Berber Sardinha (2020) suggests the use of a variation of AMD called lexical AMD to analyze academic discourse from a multidimensional perspective. Unlike traditional MD Analysis, which focuses on grammatical features and aims to identify functional dimensions of register variation, lexical MD Analysis utilizes lexical units such as words, n-grams, and collocations to identify dimensions.
+
+Passage 16:
+Segundo Berber Sardinha (2000, p. 103-104), a AMD, por sua natureza cumulativa, é uma abordagem adequada para análises de corpora que crescem de forma incremental.
+
+Translated passage 16 from (pt):
+According to Berber Sardinha (2000, p. 103-104), AMD, due to its cumulative nature, is a suitable approach for analyzing corpora that grow incrementally.
+
+Improved passage 16:
+AMD, or Accumulated Mean Differences, is a statistical measure used in corpus linguistics to analyze language variation and change over time. It calculates the mean difference between two or more corpora at different time points, allowing researchers to identify linguistic patterns and trends.
+
+Berber Sardinha (2000) suggests that AMD is particularly useful for analyzing corpora that grow incrementally. This means that as new data is added to the corpus over time, AMD can be used to measure the linguistic changes that occur. By comparing the mean differences between different time points, researchers can track the evolution of language use and identify significant shifts or developments.
+
+The cumulative nature of AMD makes it suitable for studying long-term language change, as it takes into account the entire corpus history. This allows researchers to capture the gradual linguistic transformations that occur over time, rather than focusing solely on individual time points.
+
+Overall, AMD provides a valuable tool for analyzing corpora that grow incrementally, enabling researchers to study language variation and change in a systematic and comprehensive manner.
+
+Passage 17:
+A pesquisa em Linguística de Corpus requer um design e preparação de corpora criteriosos. Sanchez (1995, p. 8-9 apud BERBER SARDINHA, 2018, p. 338) define um corpus como Um conjunto de dados linguísticos (pertencentes ao uso oral ou escrito da língua, ou a ambos), sistematizados segundo determinados critérios, suficientemente extensos em amplitude e profundidade, de maneira que sejam representativos da totalidade do uso linguístico ou de algum de seus âmbitos, dispostos de tal modo que possam ser processados por computador, com a finalidade de propiciar resultados vários e úteis para a descrição e análise. (SANCHEZ, 1995, p. 8-9 apud BERBER SARDINHA, 2018, p. 338)
+
+Translated passage 17 from (pt):
+Research in Corpus Linguistics requires careful corpora design and preparation. Sanchez (1995, p. 8-9 apud BERBER SARDINHA, 2018, p. 338) defines a corpus as a set of linguistic data (belonging to the oral or written use of the language, or both), systematized according to certain criteria, sufficiently extensive in breadth and depth, so that they are representative of the totality of linguistic use or some of its scopes, arranged in such a way that they can be processed by a computer, with the aim of providing various and useful results for description and analysis. (SANCHEZ, 1995, p. 8-9 apud BERBER SARDINHA, 2018, p. 338)
+
+Improved passage 17:
+According to Sanchez (1995, p. 8-9 apud BERBER SARDINHA, 2018, p. 338), a corpus is defined as a collection of linguistic data that can be oral or written, or both. These data are organized based on specific criteria and are extensive enough to represent the entirety of linguistic use or certain aspects of it. The corpus is also structured in a way that allows it to be processed by a computer, with the purpose of providing various useful results for description and analysis.
+
+Passage 18:
+Berber Sardinha (2018, p. 338-339) enumera quatro pré-requisitos para a elaboração de um corpus: O corpus deve consistir de textos autênticos em linguagem natural, não produzidos especificamente para pesquisa linguística nem produzidos artificialmente por programas de computador; Se os textos foram produzidos por falantes não nativos, o corpus deve ser qualificado como um corpus de aprendizes; O corpus deve ser adequado ao seu propósito no sentido de que deve ser elaborado de acordo com os requisitos de sua pesquisa correspondente; O corpus deve ser representativo. Embora esse seja um requisito que não pode ser determinado objetivamente, um corpus maior geralmente é mais representativo do que um menor porque pode conter mais ocorrências de traços linguísticos de baixa frequência (BERBER SARDINHA, 2018, p. 343).
+
+Translated passage 18 from (pt):
+Berber Sardinha (2018, p. 338-339) lists four prerequisites for the elaboration of a corpus: The corpus must consist of authentic texts in natural language, not produced specifically for linguistic research nor produced artificially by computer programs; If the texts were produced by non-native speakers, the corpus must be qualified as a corpus of learners; The corpus must be fit for purpose in the sense that it must be constructed in accordance with the requirements of its corresponding research; The corpus must be representative. Although this is a requirement that cannot be objectively determined, a larger corpus is generally more representative than a smaller one because it may contain more occurrences of low-frequency linguistic features (BERBER SARDINHA, 2018, p. 343).
+
+Improved passage 18:
+In summary, the four prerequisites for the elaboration of a corpus are:
+
+1. Authenticity: The corpus must consist of natural language texts that are not specifically produced for linguistic research or artificially generated by computer programs.
+
+2. Learner qualification: If the texts were produced by non-native speakers, the corpus must be classified as a corpus of learners.
+
+3. Fit for purpose: The corpus must be constructed in accordance with the requirements of its corresponding research, ensuring that it serves its intended purpose.
+
+4. Representativeness: Although it is subjective, a larger corpus is generally more representative than a smaller one as it may contain more occurrences of low-frequency linguistic features.
+
+Passage 19:
+Segundo Berber Sardinha (2018, p. 345), deve ser responsabilidade do pesquisador demonstrar o quão representativo e adequado é um corpus para seu estudo.
+
+Translated passage 19 from (pt):
+According to Berber Sardinha (2018, p. 345), it should be the researcher&#39;s responsibility to demonstrate how representative and adequate a corpus is for their study.
+
+Improved passage 19:
+Yes, according to Berber Sardinha (2018, p. 345), it is the responsibility of the researcher to demonstrate the representativeness and adequacy of the corpus they are using for their study. This means that the researcher should provide evidence or justification for why the chosen corpus is suitable for their research objectives and questions. They should explain how the corpus was compiled, what criteria were used for inclusion or exclusion of texts, and how it reflects the target population or phenomenon under investigation. By doing so, the researcher ensures transparency and allows for the evaluation and replication of their study by others.
+
+Passage 20:
+O tamanho de um corpus é definido por três dimensões (BERBER SARDINHA, 2018, p. 344): Número de palavras; Número de textos; Número de registros. Definida a base teórica deste estudo, os procedimentos metodológicos serão detalhados na próxima seção.
+
+Translated passage 20 from (pt):
+The size of a corpus is defined by three dimensions (BERBER SARDINHA, 2018, p. 344): Number of words; Number of texts; Number of records. Having defined the theoretical basis of this study, the methodological procedures will be detailed in the next section.
+
+Improved passage 20:
+In the next section, the methodological procedures of this study will be described in detail. These procedures will outline how the corpus was constructed and the steps taken to analyze the data. The size of the corpus, as defined by the number of words, number of texts, and number of records, will also be discussed.
+
