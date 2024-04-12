@@ -3,13 +3,14 @@ import openai
 from IPython.display import clear_output
 
 def get_completion(prompt, model = 'gpt-3.5-turbo'):
+    client = openai.OpenAI()
     messages = [{'role': 'user', 'content': prompt}]
-    response = openai.ChatCompletion.create(
+    response = client.chat.completions.create(
         model = model,
         messages = messages,
         temperature = 0
     )
-    return response.choices[0].message['content']
+    return response.choices[0].message.content
 
 # Collecting input
 end = False
